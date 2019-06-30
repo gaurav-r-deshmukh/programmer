@@ -1,0 +1,127 @@
+body {
+
+  margin: 0;
+  text-align: center;
+    font-family: 'Merriweather', serif;
+    color: #40514E;
+}
+div {
+  text-align: center;
+
+}
+h1 {
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+  line-height: 2;
+
+}
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 7px;
+  width: 5%;
+  border-color: #EAF6F6;
+  margin: 100px auto;
+}
+a {
+  color: #11999E;
+}
+p {
+  color: #40514E;
+  line-height: 2;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.top-container {
+margin-bottom: 100px auto;
+position: relative;
+padding: 100px;
+background-color: #EAF6F6;
+
+}
+
+.middle-container {
+background-color: white;
+margin: 100px auto;
+}
+.bottom-container {
+
+margin-top: 100px;
+padding: 30px 0px;
+background-color: #66BFBF;
+
+}
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  top: 300px ;
+}
+.box-img {
+  width:25%;
+  float: left;
+  margin-right: 30px;
+}
+.comp-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.btn {
+  /* background-color: #66BFBF;
+  margin: 20px auto 30px auto;
+  border-radius: 3px;
+  font-color: white;
+  font-size: 30px;
+  border-style: none;
+}
+*/  align-items: center;
+    text-transform: uppercase;
+    border-width: 1px;
+    border-style: solid;
+    color: white;
+    border-radius: 7px;
+    font-size: 17px;
+    font-weight: 550;
+    height: 40px;
+    padding: 0 17px;
+    font-family: "Proxima Nova",sans-serif;
+    margin: 40px auto 60px auto;
+    background-color: #66BFBF;
+    border-style: none;
+}
+.btn:hover {
+  background-color: #ff502f;
+}
+.info {
+    width: 40%;
+    margin: auto;
+}
+.contact-info {
+  width: 40%;
+  margin: auto;
+}
+.copyright {
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
